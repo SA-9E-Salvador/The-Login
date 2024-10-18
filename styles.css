@@ -1,0 +1,48 @@
+h1{
+	background-image: url('blueheader2.jpeg');
+	height: 75px;
+	text-align: center;
+	color: lightskyblue;
+	font-family:cursive;
+	font-size:50px;
+	box-shadow: 2px 2px 2px black;
+	}
+
+body {
+  background-image: url('bluebg2.jpeg');
+  background-repeat: repeat;
+  background-size: 1300px;
+  border-color:aliceblue;
+}
+
+.chickenwing{
+	background color: aliceblue;
+	text-align:center;
+	width: 40%;
+	border: darkcyan;
+	margin:auto;
+	box-shadow:2px 2px 2px black;
+}
+
+div{
+	padding: 25px;
+	background-color:darkslategray;
+	text-align: center;
+	margin: auto;
+	
+	width: 300px;
+
+    }
+
+
+img{
+	border-radius: 50%;
+	box-shadow: 2px 2px;
+}
+
+
+input[type="submit"] {
+    background-color: aqua;
+    border-radius: 40px;
+    box-shadow: 2px 2px;
+    padding: 10px;
